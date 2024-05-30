@@ -2,7 +2,7 @@
 # Title: Multi Criteria agriculture crop and fertilizer recommendation system using machine learning
 
 ## Project Idea:
-The aim is to develop a system that recommends the optimal crop and corresponding fertilizer based on various criteria such as soil type, weather conditions, crop rotation history, market demand, and farmer preferences. The system will use machine learning algorithms like Random Forest, Support Vector Machine, Multi Linear Regression, K- Nearest Neighbour.
+The aim is to develop a system that recommends the optimal crop and corresponding fertilizer based on various criteria such as soil type, weather conditions, crop rotation history, market demand, and farmer preferences. The system will use machine learning algorithms like Random Forest, Support Vector Machine, Multi Linear Regression, K- Nearest Neighbour. Technology based crop recommendation system for agriculture helps the farmers to increase the crop yield by recommending a suitable crop for their land with the help of geographic and the climatic parameters.
 
 ## Modules included in our Project:
    1.Crop Recommendation Model
