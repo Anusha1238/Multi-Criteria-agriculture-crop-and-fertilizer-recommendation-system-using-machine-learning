@@ -6,11 +6,11 @@ The aim is to develop a system that recommends the optimal crop and correspondin
 
 ## Modules included in our Project:
    1.Crop Recommendation Model
-   
    2.Fertilizer Recommendation Model
    
 **1. Crop Recommendation Model:**
     Train models (e.g., Random Forest, Decision Trees) using historical data to predict suitable crops for given conditions.
+    
 **2. Fertilizer Recommendation Model:**
     Develop models to recommend appropriate fertilizers based on soil nutrient deficiencies and crop requirements
 
