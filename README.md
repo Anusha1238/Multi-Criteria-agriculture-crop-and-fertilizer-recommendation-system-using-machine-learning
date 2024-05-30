@@ -49,10 +49,10 @@ The aim is to develop a system that recommends the optimal crop and correspondin
   Financial constraints
   Resource availability (e.g., irrigation facilities, machinery)
 
-  ## 3.crop output:
+  ** 3.crop output:**
   Based on the input data provided the suitable crop is recommrnded.
 
-  ## 4. Fertilizer recommndation data input:
+  ** 4. Fertilizer recommndation data input:**
   The fertilizer prediction data input process involves collecting data necessary for making accurate and tailored fertilizer recommendations based on specific 
  soil and crop conditions. This process is essential for optimizing crop yield and ensuring sustainable farming practices. Below is a detailed description of the 
  data input functionalities for fertilizer prediction.
@@ -69,7 +69,7 @@ Crop Type: Specifies the type of crop currently being grown or planned to be gro
 Weather Conditions: Includes data on temperature, rainfall, humidity, and sunlight hours.
 Irrigation Practices: Information on the irrigation methods and frequency used by the farmer
 
-   ## 5. Fertilizer output:
+   **5. Fertilizer output:**
          Based on the input data provided the suitable Fertilizer is recommrnded.
 
 ## Conclusion
