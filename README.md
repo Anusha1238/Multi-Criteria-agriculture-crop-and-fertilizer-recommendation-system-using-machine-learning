@@ -6,6 +6,7 @@ The aim is to develop a system that recommends the optimal crop and correspondin
 
 ## Modules included in our Project:
    1.Crop Recommendation Model
+   
    2.Fertilizer Recommendation Model
    
 **1. Crop Recommendation Model:**
