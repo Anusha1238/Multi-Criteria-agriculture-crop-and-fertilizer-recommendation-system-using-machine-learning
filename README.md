@@ -92,5 +92,5 @@ The Project try to get best crop and fertilizer recommendation with the help of 
 
 ## Future Scope
 For the upcoming updates the project can use deep learning techniques for plant diseases prediction with the help of images and we can also implement IOT techniques for getting contents of soil directly from the fields. Future Work on this can add many options such as:
-• Diagnosis and prevention of plant diseases, predicting plant species.
-• Current Market Conditions and analysis for information on crop market rates, production costs, fertilizer.
+a)Diagnosis and prevention of plant diseases, predicting plant species.
+b)Current Market Conditions and analysis for information on crop market rates, production costs, fertilizer.
