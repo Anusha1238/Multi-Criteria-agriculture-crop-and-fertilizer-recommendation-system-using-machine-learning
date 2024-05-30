@@ -33,29 +33,29 @@ The aim is to develop a system that recommends the optimal crop and correspondin
  
 a) Soil Data:
 
-   pH level
-   Nutrient levels (Nitrogen, Phosphorus, Potassium)
-   Soil type (e.g., clay, sandy, loamy)
-   Moisture content
+   pH level,
+   Nutrient levels (Nitrogen, Phosphorus, Potassium),
+   Soil type (e.g., clay, sandy, loamy),
+   Moisture content.
    
 b) Weather Data:
 
-   Current temperature
-   Rainfall
-   Humidity
-   Sunlight hours
+   Current temperature,
+   Rainfall,
+   Humidity,
+   Sunlight hours.
    
 c) Crop Data:
 
-  Historical crop data (previous crops grown in the field)
-  Crop rotation history
-  Preferred crops
+  Historical crop data (previous crops grown in the field),
+  Crop rotation history,
+  Preferred crops.
   
 d) Farmer Preferences:
 
-  Preferred crops
-  Financial constraints
-  Resource availability (e.g., irrigation facilities, machinery)
+  Preferred crops,
+  Financial constraints,
+  Resource availability (e.g., irrigation facilities, machinery).
 
   **3.crop output:**
   Based on the input data provided the suitable crop is recommrnded.
@@ -66,19 +66,22 @@ d) Farmer Preferences:
  data input functionalities for fertilizer prediction.
  
    a) Soil Data
- pH Level: Determines the soil's acidity or alkalinity, influencing nutrient availability.
- Nutrient Levels (Nitrogen, Phosphorus, Potassium): Indicates the current nutrient status of the soil.
-Soil Type: Identifies the texture of the soil (e.g., clay, sandy, loamy).
- Organic Matter: Provides information on the organic content in the soil.
+   
+ pH Level: Determines the soil's acidity or alkalinity, influencing nutrient availability,
+ Nutrient Levels (Nitrogen, Phosphorus, Potassium): Indicates the current nutrient status of the soil,
+Soil Type: Identifies the texture of the soil (e.g., clay, sandy, loamy),
+ Organic Matter: Provides information on the organic content in the soil,
 Moisture Content: Measures the water content in the soil.
 
  b) Crop Data
- Crop Type: Specifies the type of crop currently being grown or planned to be grown.
+ 
+ Crop Type: Specifies the type of crop currently being grown or planned to be grown,
  Growth Stage: Indicates the current growth stage of the crop (e.g., germination, vegetative, flowering, harvesting).
  
   c)Environmental Data
-  Weather Conditions: Includes data on temperature, rainfall, humidity, and sunlight hours.
-Irrigation Practices: Information on the irrigation methods and frequency used by the farmer
+  
+  Weather Conditions: Includes data on temperature, rainfall, humidity, and sunlight hours,
+Irrigation Practices: Information on the irrigation methods and frequency used by the farmer.
 
    **5. Fertilizer output:**
     Based on the input data provided the suitable Fertilizer is recommrnded.
